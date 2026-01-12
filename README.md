@@ -49,5 +49,5 @@ Up → Go to parent folder
 
 OK → Save selection and open it in Windows Explorer
 
-👤 Made By
+👤 Made By ryguy.os
 Created with help from ChatGPT for learning and fun.
